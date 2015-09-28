@@ -1,0 +1,675 @@
+# edX translation file
+# Copyright (C) 2015 edX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# 
+# Translators:
+# Espen Bye, 2014
+# Frode Arntsen <frode.arntsen@bibsys.no>, 2014
+# Pål Messenlien <paal@vangenplotz.no>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: edx-platform\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2015-09-24 03:06+0000\n"
+"PO-Revision-Date: 2015-07-10 13:34+0000\n"
+"Last-Translator: Pål Messenlien <paal@vangenplotz.no>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/open-edx/edx-platform/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wiki/admin.py:70 wiki/models/article.py:25
+msgid "created"
+msgstr "opprettet"
+
+#: wiki/forms.py:30
+msgid "Only localhost... muahahaha"
+msgstr "Kun localhost....muhahhaha....ack"
+
+#: wiki/forms.py:36 wiki/forms.py:44 wiki/forms.py:205
+msgid "Title"
+msgstr "Tittel"
+
+#: wiki/forms.py:36
+msgid "Initial title of the article. May be overridden with revision titles."
+msgstr "Orginal tittel på artikkel kan bli overskrevet med reviderte titler."
+
+#: wiki/forms.py:37
+msgid "Type in some contents"
+msgstr "Skriv inn litt innhold"
+
+#: wiki/forms.py:38
+msgid ""
+"This is just the initial contents of your article. After creating it, you "
+"can use more complex features like adding plugins, meta data, related "
+"articles etc..."
+msgstr "Dette er kun intro innhold i artikkelen. Etter at den er opprettet kan du legge til mer komplekse funksjoner som å legge til plugins, meta data, relaterte artikler etc..."
+
+#: wiki/forms.py:45 wiki/forms.py:207
+msgid "Contents"
+msgstr "Innhold"
+
+#: wiki/forms.py:48 wiki/forms.py:210
+msgid "Summary"
+msgstr "Oppsummering"
+
+#: wiki/forms.py:48
+msgid ""
+"Give a short reason for your edit, which will be stated in the revision log."
+msgstr "Skriv en kort grunn til at du redigerte. Dette blir synlig i revisjons loggen."
+
+#: wiki/forms.py:97
+msgid ""
+"While you were editing, someone else changed the revision. Your contents "
+"have been automatically merged with the new contents. Please review the text"
+" below."
+msgstr "Mens du redigerte så endret også noen andre revisjonen du jobbet på. Dine endringer blir automatisk slått sammen med det nye innholdet. Vennligst lest gjennom teksten under."
+
+#: wiki/forms.py:99
+msgid "No changes made. Nothing to save."
+msgstr "Ingen endringer. Ikke noe å lagre."
+
+#: wiki/forms.py:161
+msgid "Select an option"
+msgstr "Vennligst gjør et valg"
+
+#: wiki/forms.py:206
+msgid "Slug"
+msgstr "Prefiks"
+
+#: wiki/forms.py:206
+msgid ""
+"This will be the address where your article can be found. Use only "
+"alphanumeric characters and - or _. Note that you cannot change the slug "
+"after creating the article."
+msgstr "Dette blir adressen hvor artikkelen din kan leses. Bruk kun alfanumeriske karakterer og - eller _. Notis: Du kan ikke endre slug etter opprettet artikkel."
+
+#: wiki/forms.py:210
+msgid "Write a brief message for the article's history log."
+msgstr "Skriv en kort melding til artikkel historie loggen."
+
+#: wiki/forms.py:220
+msgid "A slug may not begin with an underscore."
+msgstr "En prefiks kan ikke begynne med en understrek."
+
+#: wiki/forms.py:229
+#, python-format
+msgid "A deleted article with slug \"%s\" already exists."
+msgstr "En slettet artikkel med prefiks \"%s\" finnes allerede."
+
+#: wiki/forms.py:231
+#, python-format
+msgid "A slug named \"%s\" already exists."
+msgstr "En prefiks med navnet \"%s\" finnes allerede."
+
+#: wiki/forms.py:244
+msgid "Yes, I am sure"
+msgstr "Ja, jeg er sikker"
+
+#: wiki/forms.py:246
+msgid "Purge"
+msgstr "Permanent fjern"
+
+#: wiki/forms.py:247
+msgid ""
+"Purge the article: Completely remove it (and all its contents) with no undo."
+" Purging is a good idea if you want to free the slug such that users can "
+"create new articles in its place."
+msgstr "Permanent fjerning av artikkel vil fjerne den for godt (og alt innhold) uten mulighet for å angre. Slik sletting er en god ide hvis du vil frigjøre en prefiks så brukere kan opprette nye artikler som erstatter."
+
+#: wiki/forms.py:254 wiki/plugins/attachments/forms.py:24
+#: wiki/plugins/images/forms.py:64
+msgid "You are not sure enough!"
+msgstr "Er du ikke helt sikker!"
+
+#: wiki/forms.py:256
+msgid "While you tried to delete this article, it was modified. TAKE CARE!"
+msgstr "Mens du prøvde å fjerne denne artikkelen ble den endret av noen andre. LYKKE TIL!!"
+
+#: wiki/forms.py:262
+msgid "Lock article"
+msgstr "Lås artikkel"
+
+#: wiki/forms.py:262
+msgid "Deny all users access to edit this article."
+msgstr "Nekt alle brukere med tilgang til å endre denne artikkelen."
+
+#: wiki/forms.py:265
+msgid "Permissions"
+msgstr "Rettigheter"
+
+#: wiki/forms.py:269
+msgid "Owner"
+msgstr "Eier"
+
+#: wiki/forms.py:270
+msgid "Enter the username of the owner."
+msgstr "Skriv inn brukernavn til eieren."
+
+#: wiki/forms.py:271
+msgid "(none)"
+msgstr "(ingen)"
+
+#: wiki/forms.py:276
+msgid "Inherit permissions"
+msgstr "Arv rettigheter"
+
+#: wiki/forms.py:276
+msgid ""
+"Check here to apply the above permissions recursively to articles under this"
+" one."
+msgstr "Velg for å godkjenne rettighetene ovenfor rekursivt til artikkelen under denne. "
+
+#: wiki/forms.py:281
+msgid "Permission settings for the article were updated."
+msgstr "Rettighets innstillinger for denne artikkelen ble oppdatert."
+
+#: wiki/forms.py:283
+msgid "Your permission settings were unchanged, so nothing saved."
+msgstr "Dine rettigheter forble uendret, ikke noe ble lagret."
+
+#: wiki/forms.py:322
+msgid "No user with that username"
+msgstr "Kan ikke finne bruker med brukernavnet"
+
+#: wiki/forms.py:344
+msgid "Article locked for editing"
+msgstr "Artikkel stengt for endring"
+
+#: wiki/forms.py:351
+msgid "Article unlocked for editing"
+msgstr "Artikkel åpnet for redigering"
+
+#: wiki/forms.py:364
+msgid "Filter..."
+msgstr "Filter..."
+
+#: wiki/core/plugins/base.py:44
+msgid "Settings for plugin"
+msgstr "Plugin instillinger"
+
+#: wiki/models/article.py:20 wiki/models/pluginbase.py:165
+#: wiki/plugins/attachments/models.py:19
+msgid "current revision"
+msgstr "aktiv versjon"
+
+#: wiki/models/article.py:22
+msgid ""
+"The revision being displayed for this article. If you need to do a roll-"
+"back, simply change the value of this field."
+msgstr "Versjonen som blir vist for denne artikkelen. Trenger du å endre til en tidligere versjon, endrer du bare verdien i dette feltet."
+
+#: wiki/models/article.py:26
+msgid "modified"
+msgstr "endret"
+
+#: wiki/models/article.py:27
+msgid "Article properties last modified"
+msgstr "Instillinger for artikkel er sist endret"
+
+#: wiki/models/article.py:29
+msgid "owner"
+msgstr "eier"
+
+#: wiki/models/article.py:31
+msgid ""
+"The owner of the article, usually the creator. The owner always has both "
+"read and write access."
+msgstr "Eieren av denne artikkelen, vanligvis den som opprettet. Eier vil alltid ha både lese og skrive rettigheter."
+
+#: wiki/models/article.py:33
+msgid "group"
+msgstr "gruppe"
+
+#: wiki/models/article.py:35
+msgid ""
+"Like in a UNIX file system, permissions can be given to a user according to "
+"group membership. Groups are handled through the Django auth system."
+msgstr "Akkurat som i et UNIX system, rettigheter kan bli gitt til brukere utifra gruppe medlemskapet. Grupper er håndtert gjennom Django autentisering system."
+
+#: wiki/models/article.py:37
+msgid "group read access"
+msgstr "gruppe lese tilgang"
+
+#: wiki/models/article.py:38
+msgid "group write access"
+msgstr "gruppe skrive tilgang"
+
+#: wiki/models/article.py:39
+msgid "others read access"
+msgstr "andre lese tilganger"
+
+#: wiki/models/article.py:40
+msgid "others write access"
+msgstr "andre skrive tilganger"
+
+#: wiki/models/article.py:168
+#, python-format
+msgid "Article without content (%(id)d)"
+msgstr "Artikkel uten innhold (%(id)d)"
+
+#: wiki/models/article.py:197
+msgid "content type"
+msgstr "innholds type"
+
+#: wiki/models/article.py:199
+msgid "object ID"
+msgstr "objekt ID"
+
+#: wiki/models/article.py:206
+msgid "Article for object"
+msgstr "Artikkel for objekt"
+
+#: wiki/models/article.py:207
+msgid "Articles for object"
+msgstr "Artikler for objekt"
+
+#: wiki/models/article.py:215
+msgid "revision number"
+msgstr "revisjons nummer"
+
+#: wiki/models/article.py:220
+msgid "IP address"
+msgstr "IP adresse"
+
+#: wiki/models/article.py:221
+msgid "user"
+msgstr "bruker"
+
+#: wiki/models/article.py:232
+msgid "deleted"
+msgstr "slettet"
+
+#: wiki/models/article.py:233
+msgid "locked"
+msgstr "låst"
+
+#: wiki/models/article.py:251 wiki/models/pluginbase.py:39
+msgid "article"
+msgstr "artikkel"
+
+#: wiki/models/article.py:254
+msgid "article contents"
+msgstr "artikkel innhold"
+
+#: wiki/models/article.py:258
+msgid "article title"
+msgstr "artikkel tittel"
+
+#: wiki/models/article.py:259
+msgid ""
+"Each revision contains a title field that must be filled out, even if the "
+"title has not changed"
+msgstr "Hver revisjon inneholder et tittel felt som må fylles ut, selv om det ikke er endringer på tittel"
+
+#: wiki/models/pluginbase.py:77
+msgid "original article"
+msgstr "original artikkel"
+
+#: wiki/models/pluginbase.py:78
+msgid "Permissions are inherited from this article"
+msgstr "Rettigheter er arvet fra denne artikkelen"
+
+#: wiki/models/pluginbase.py:138
+msgid "A plugin was changed"
+msgstr "En plugin er endret"
+
+#: wiki/models/pluginbase.py:167
+msgid ""
+"The revision being displayed for this plugin.If you need to do a roll-back, "
+"simply change the value of this field."
+msgstr "Revisjonene som blir vist for dette tillegget. Trenger du å rulle tilbake endringer endrer du bare verdien i dette feltet."
+
+#: wiki/models/urlpath.py:40
+msgid "Cache lookup value for articles"
+msgstr "Mellomlager verdier for artikler"
+
+#: wiki/models/urlpath.py:42
+msgid "slug"
+msgstr "prefik"
+
+#: wiki/models/urlpath.py:134
+msgid "(root)"
+msgstr "(rot)"
+
+#: wiki/models/urlpath.py:144
+msgid "URL path"
+msgstr "URL verdi"
+
+#: wiki/models/urlpath.py:145
+msgid "URL paths"
+msgstr "URL verdier"
+
+#: wiki/models/urlpath.py:151
+msgid "Sorry but you cannot have a root article with a slug."
+msgstr "Beklager du kan ikke ha rot artikler med en prefiks."
+
+#: wiki/models/urlpath.py:153
+msgid "A non-root note must always have a slug."
+msgstr "En ikke rot notis må alltid ha en prefiks."
+
+#: wiki/models/urlpath.py:156
+#, python-format
+msgid "There is already a root node on %s"
+msgstr "Det finnes allerede en rot not på %s"
+
+#: wiki/models/urlpath.py:260
+msgid ""
+"Articles who lost their parents\n"
+"===============================\n"
+"\n"
+"The children of this article have had their parents deleted. You should probably find a new home for them."
+msgstr "Artikler som mistet foreldre\n===============================\n\nBarn av denne artikkelen har hatt sine foreldre slettet. Du burde finne ett nytt hjem til dem."
+
+#: wiki/models/urlpath.py:263
+msgid "Lost and found"
+msgstr "Mistet og funnet"
+
+#: wiki/plugins/attachments/forms.py:9
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: wiki/plugins/attachments/forms.py:10
+msgid "A short summary of what the file contains"
+msgstr "Kort oppsummert hva filen inneholder"
+
+#: wiki/plugins/attachments/forms.py:19
+msgid "Yes I am sure..."
+msgstr "Ja, jeg er sikker..."
+
+#: wiki/plugins/attachments/markdown_extensions.py:33
+msgid "Click to download file"
+msgstr "Last ned filen"
+
+#: wiki/plugins/attachments/models.py:21
+msgid ""
+"The revision of this attachment currently in use (on all articles using the "
+"attachment)"
+msgstr "En revisjon av vedlegget "
+
+#: wiki/plugins/attachments/models.py:24
+msgid "original filename"
+msgstr "originalt filnavn"
+
+#: wiki/plugins/attachments/models.py:36
+msgid "attachment"
+msgstr "vedlegg"
+
+#: wiki/plugins/attachments/models.py:37
+msgid "attachments"
+msgstr "vedlegg"
+
+#: wiki/plugins/attachments/models.py:79
+msgid "file"
+msgstr "fil"
+
+#: wiki/plugins/attachments/models.py:85
+msgid "attachment revision"
+msgstr "vedlegg revisjon"
+
+#: wiki/plugins/attachments/models.py:86
+msgid "attachment revisions"
+msgstr "vedlegg revisjoner"
+
+#: wiki/plugins/attachments/views.py:51
+#, python-format
+msgid "%s was successfully added."
+msgstr "%s ble lagt til"
+
+#: wiki/plugins/attachments/views.py:54 wiki/plugins/attachments/views.py:116
+#, python-format
+msgid "Your file could not be saved: %s"
+msgstr "Filen kunne ikke lagres: %s"
+
+#: wiki/plugins/attachments/views.py:57 wiki/plugins/attachments/views.py:120
+msgid ""
+"Your file could not be saved, probably because of a permission error on the "
+"web server."
+msgstr "Filen kunne ikke lagres. Antageligvis grunnet feil rettigheter på web serveren."
+
+#: wiki/plugins/attachments/views.py:114
+#, python-format
+msgid "%s uploaded and replaces old attachment."
+msgstr "%s lastet opp og erstattet et gammelt vedlegg."
+
+#: wiki/plugins/attachments/views.py:128
+msgid ""
+"Your new file will automatically be renamed to match the file already "
+"present. Files with different extensions are not allowed."
+msgstr "Det blir automatisk endret navn på den nye filen for å tilpasse filen som allerede finnes. Filer av forskjellig type er ikke godkjent."
+
+#: wiki/plugins/attachments/views.py:180
+#, python-format
+msgid "Current revision changed for %s."
+msgstr "Aktiv revisjon endret for %s"
+
+#: wiki/plugins/attachments/views.py:199
+#, python-format
+msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
+msgstr "La til en referanse til \"%(att)s\" fra \"%(art)s\"."
+
+#: wiki/plugins/attachments/views.py:229
+#, python-format
+msgid "The file %s was deleted."
+msgstr "Filen %s ble slettet."
+
+#: wiki/plugins/attachments/views.py:232
+#, python-format
+msgid "This article is no longer related to the file %s."
+msgstr "Artikkelen er ikke lenger relatert til filen %s."
+
+#: wiki/plugins/attachments/wiki_plugin.py:30
+msgid "Attachments"
+msgstr "Vedlegg"
+
+#: wiki/plugins/attachments/wiki_plugin.py:36
+#, python-format
+msgid "A file was changed: %s"
+msgstr "En fil var endret: %s "
+
+#: wiki/plugins/attachments/wiki_plugin.py:36
+#, python-format
+msgid "A file was deleted: %s"
+msgstr "En fil ble slettet: %s "
+
+#: wiki/plugins/help/wiki_plugin.py:13
+msgid "Help"
+msgstr "Hjelp"
+
+#: wiki/plugins/images/forms.py:16
+#, python-format
+msgid ""
+"New image %s was successfully uploaded. You can use it by selecting it from "
+"the list of available images."
+msgstr "Et bilde %s ble lastet opp. Du kan bruke det ved å velge det fra listen over tilgjengelige bilder."
+
+#: wiki/plugins/images/forms.py:59
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+#: wiki/plugins/images/models.py:40
+msgid "image"
+msgstr "bilde"
+
+#: wiki/plugins/images/models.py:41
+msgid "images"
+msgstr "bilder"
+
+#: wiki/plugins/images/models.py:45
+#, python-format
+msgid "Image: %s"
+msgstr "Bilde: %s"
+
+#: wiki/plugins/images/models.py:45
+msgid "Current revision not set!!"
+msgstr "Den siste revisjonen ble ikke satt!!"
+
+#: wiki/plugins/images/models.py:92
+msgid "image revision"
+msgstr "bilde revisjon"
+
+#: wiki/plugins/images/models.py:93
+msgid "image revisions"
+msgstr "bilde revisjoner"
+
+#: wiki/plugins/images/models.py:98
+#, python-format
+msgid "Image Revsion: %d"
+msgstr "Bilde revisjon: %d"
+
+#: wiki/plugins/images/views.py:64
+#, python-format
+msgid "%s has been restored"
+msgstr "%s ble gjenopprettet"
+
+#: wiki/plugins/images/views.py:66
+#, python-format
+msgid "%s has been marked as deleted"
+msgstr "%s er merket som slettet"
+
+#: wiki/plugins/images/views.py:116
+#, python-format
+msgid "%(file)s has been changed to revision #%(revision)d"
+msgstr "%(file)s er endret til revisjon #%(revision)d"
+
+#: wiki/plugins/images/views.py:150
+#, python-format
+msgid "%(file)s has been saved."
+msgstr "%(file)s ble lagret."
+
+#: wiki/plugins/images/wiki_plugin.py:15
+msgid "Images"
+msgstr "Bilder"
+
+#: wiki/plugins/images/wiki_plugin.py:26
+#, python-format
+msgid "An image was added: %s"
+msgstr "Et bilde ble lagt til: %s"
+
+#: wiki/plugins/links/wiki_plugin.py:20
+msgid "Links"
+msgstr "Linker"
+
+#: wiki/plugins/notifications/forms.py:13
+msgid "Notifications"
+msgstr "Varslinger"
+
+#: wiki/plugins/notifications/forms.py:17
+msgid "When this article is edited"
+msgstr "Når ble denne artikkelen redigert"
+
+#: wiki/plugins/notifications/forms.py:18
+msgid "Also receive emails about article edits"
+msgstr "Motta epost når artikkel blir endret"
+
+#: wiki/plugins/notifications/forms.py:41
+msgid "Your notification settings were updated."
+msgstr "Innstillinger om varsling ble oppdatert."
+
+#: wiki/plugins/notifications/forms.py:43
+msgid "Your notification settings were unchanged, so nothing saved."
+msgstr "Dine varslingsinnstillinger forble uendret."
+
+#: wiki/plugins/notifications/models.py:18
+#, python-format
+msgid "%(user)s subscribing to %(article)s (%(type)s)"
+msgstr "%(user)s abboner på %(article)s (%(type)s)"
+
+#: wiki/plugins/notifications/models.py:40
+#, python-format
+msgid "Article deleted: %s"
+msgstr "Artikkel slettet: %s"
+
+#: wiki/plugins/notifications/models.py:43
+#, python-format
+msgid "Article modified: %s"
+msgstr "Artikkel endret: %s"
+
+#: wiki/plugins/notifications/models.py:46
+#, python-format
+msgid "New article created: %s"
+msgstr "Ny artikkel opprettet: %s"
+
+#: wiki/views/accounts.py:25
+msgid "You are now sign up... and now you can sign in!"
+msgstr "Du er nå registrert.. og du kan nå logge inn!"
+
+#: wiki/views/accounts.py:32
+msgid "You are no longer logged in. Bye bye!"
+msgstr "Du er ikke lengre registrert... Hadet!"
+
+#: wiki/views/accounts.py:57
+msgid "You are now logged in! Have fun!"
+msgstr "Du er nå logget inn!.. Ha det gøy!!"
+
+#: wiki/views/article.py:85
+#, python-format
+msgid "New article '%s' created."
+msgstr "Ny artikkel '%s' opprettet."
+
+#: wiki/views/article.py:92
+#, python-format
+msgid "There was an error creating this article: %s"
+msgstr "Det oppsto en feil når du laget artikkelen: %s"
+
+#: wiki/views/article.py:94
+msgid "There was an error creating this article."
+msgstr "Det oppsto en feil når du opprettet artikkelen."
+
+#: wiki/views/article.py:172
+msgid ""
+"This article cannot be deleted because it has children or is a root article."
+msgstr "Artikkelen kan ikke slettes fordi det finnes innholds barn eller det er en rot artikkel."
+
+#: wiki/views/article.py:183
+msgid ""
+"This article together with all its contents are now completely gone! Thanks!"
+msgstr "Artikkelen sammen med alt innhold er nå helt borte! Takk!"
+
+#: wiki/views/article.py:190
+#, python-format
+msgid ""
+"The article \"%s\" is now marked as deleted! Thanks for keeping the site "
+"free from unwanted material!"
+msgstr "Artikkelen \"%s\" er merket som slettet! Takk for at du holder sidene fri for unødig materiale!"
+
+#: wiki/views/article.py:267
+msgid "Your changes were saved."
+msgstr "Endringene dine ble lagret."
+
+#: wiki/views/article.py:290
+msgid "A new revision of the article was succesfully added."
+msgstr "En ny revisjon av artikkelen ble lagt til."
+
+#: wiki/views/article.py:343
+msgid "Restoring article"
+msgstr "Gjenopprett artikkelen"
+
+#: wiki/views/article.py:345
+#, python-format
+msgid "The article \"%s\" and its children are now restored."
+msgstr "Artikkelen \"%s\" og dens barn er nå gjenopprettet."
+
+#: wiki/views/article.py:529
+#, python-format
+msgid "The article %s is now set to display revision #%d"
+msgstr "Artikkelen %s er satt til å vise revisjon #%d"
+
+#: wiki/views/article.py:591
+msgid "New title"
+msgstr "Ny tittel"
+
+#: wiki/views/article.py:615
+#, python-format
+msgid "Merge between Revision #%(r1)d and Revision #%(r2)d"
+msgstr "Slå sammen revisjon #%(r1)d og revisjon #%(r2)d"
+
+#: wiki/views/article.py:619
+#, python-format
+msgid ""
+"A new revision was created: Merge between Revision #%(r1)d and Revision "
+"#%(r2)d"
+msgstr "En ny revisjon ble opprettet: Slå sammen revisjon #%(r1)d og revisjon #%(r2)d"

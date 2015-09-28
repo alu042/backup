@@ -92,7 +92,7 @@ msgstr "Kursnummer"
 #: lms/templates/ccx/schedule.html:79
 #: lms/templates/instructor/instructor_dashboard_2/metrics.html:43
 msgid "Section"
-msgstr "Seksjon:"
+msgstr "Seksjon"
 
 #: cms/templates/course_outline.html:152
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:62

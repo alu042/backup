@@ -26,7 +26,7 @@ msgstr ""
 msgid ""
 "This may be happening because of an error with our server or your internet "
 "connection. Try refreshing the page or making sure you are online."
-msgstr "Dette kan skje grunnet en feil i server eller Internett oppkoblingen ble brutt. Prøv og last siden på nytt og sørg for at du er online."
+msgstr "Dette kan forårsakes av feil i server eller at internettoppkoblingen ble brutt. Prøv og last siden på nytt og sørg for at du er online."
 
 #: cms/static/coffee/src/main.js:38
 msgid "Studio's having trouble saving your work"
@@ -155,7 +155,7 @@ msgstr "Det har oppstått en feil under eksporteringen til XML på hvertfall en 
 
 #: cms/static/js/factories/export.js:12
 msgid "Correct failed component"
-msgstr "Korrekt mislyktes komponent"
+msgstr "Korriger mislykkede komponenter"
 
 #: cms/static/js/factories/export.js:19
 msgid "Return to Export"
@@ -233,7 +233,7 @@ msgstr "Allerede gruppemedlem på kurset "
 msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
-msgstr "Er du sikker på at du ønsker å slette {email} fra kursets gruppe for “{container}”?"
+msgstr "Er du sikker på at du ønsker å slette {email} fra kursets gruppe for {container}?"
 
 #: cms/static/js/factories/manage_users.js:19
 #: cms/static/js/factories/manage_users_lib.js:21

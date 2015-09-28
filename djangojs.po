@@ -765,7 +765,7 @@ msgstr ""
 
 #: common/templates/js/image-modal.underscore
 msgid "Fullscreen"
-msgstr "Full skjerm"
+msgstr "Fullskjerm"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -3767,7 +3767,7 @@ msgstr ""
 
 #: cms/static/js/models/settings/course_details.js
 msgid "The course must have an assigned start date."
-msgstr "Kurset må ha en gitt startdato."
+msgstr "Kurset må ha en startdato."
 
 #: cms/static/js/models/settings/course_details.js
 msgid "The course end date cannot be before the course start date."
@@ -3787,7 +3787,7 @@ msgstr "Påmeldingsfristen kan ikke være etter kursets sluttdato."
 
 #: cms/static/js/models/settings/course_details.js
 msgid "Key should only contain letters, numbers, _, or -"
-msgstr "Nøkkel kan kun inneholde bokstaver, nummer, _ eller -"
+msgstr ""
 
 #: cms/static/js/models/settings/course_details.js
 msgid "Please enter an integer between %(min)s and %(max)s."
@@ -3834,6 +3834,7 @@ msgid ""
 "Also any content that links/refers to this item will no longer work (e.g. broken images and/or links)"
 msgstr ""
 "Er du sikker på at du vil slette dette. Det kan ikke angres\n"
+"\n"
 "Også alt innhold som lenker/viser til dette objektet vil ikke lengre fungerer  (f.eks manglende bilder eller døde lenker)"
 
 #: cms/static/js/views/asset.js
@@ -4340,7 +4341,7 @@ msgstr ""
 
 #: cms/static/js/views/utils/view_utils.js
 msgid "Required field."
-msgstr "Påkrevet felt."
+msgstr "Påkrevd felt."
 
 #: cms/static/js/views/utils/view_utils.js
 msgid "Please do not use any spaces in this field."
@@ -4348,7 +4349,7 @@ msgstr "Vennligst ikke bruk mellomrom i dette feltet."
 
 #: cms/static/js/views/utils/view_utils.js
 msgid "Please do not use any spaces or special characters in this field."
-msgstr "Vennligst ikke bruk mellomrom eller spesial tegn i dette feltet."
+msgstr "Vennligst ikke bruk mellomrom eller spesialtegn i dette feltet."
 
 #: cms/static/js/views/utils/xblock_utils.js
 msgid "component"

@@ -184,7 +184,7 @@ msgstr[1] "(%(num_points)s mulige poeng)"
 
 #: common/lib/xmodule/xmodule/js/src/capa/display.js:209
 msgid "The grading process is still running. Refresh the page to see updates."
-msgstr "Karakterene jobbes med å bli satt. Oppdater siden for å se oppdateringer. "
+msgstr "Karakterene jobbes med å bli satt. Oppdater siden for å se oppdateringer."
 
 #: common/lib/xmodule/xmodule/js/src/capa/display.js:467
 #: common/lib/xmodule/xmodule/js/src/capa/display.js:482
@@ -215,7 +215,7 @@ msgstr "Status: ikke levert"
 #. they feel they were graded on this problem
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:418
 msgid "You need to pick a rating before you can submit."
-msgstr "Du må velge en rangering før du kan levere. "
+msgstr "Du må velge en rangering før du kan levere."
 
 #. Translators: this message appears when transitioning between openended
 #. grading
@@ -241,7 +241,7 @@ msgstr "Lever oppgave"
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:494
 msgid ""
 "Your response has been submitted. Please check back later for your grade."
-msgstr "Ditt svar er blitt levert. Vennligst kom tilbake senere for din karakter. "
+msgstr "Ditt svar er blitt levert. Vennligst kom tilbake senere for din karakter."
 
 #. Translators: this button is clicked to submit a student's rating of
 #. an evaluator's assessment
@@ -251,19 +251,19 @@ msgstr "Lever post-oppgaver"
 
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:553
 msgid "Answer saved, but not yet submitted."
-msgstr "Svar er lagret, men ikke levert. "
+msgstr "Svar er lagret, men ikke levert."
 
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:592
 msgid ""
 "Please confirm that you wish to submit your work. You will not be able to "
 "make any changes after submitting."
-msgstr "Vennligst bekreft at du ønsker å levere ditt arbeid. Du vil ikke ha muligheten til å gjøre endringer etter innlevering. "
+msgstr "Vennligst bekreft at du ønsker å levere ditt arbeid. Du vil ikke ha muligheten til å gjøre endringer etter innlevering."
 
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:618
 msgid ""
 "You are trying to upload a file that is too large for our system.  Please "
 "choose a file under 2MB or paste a link to it into the answer box."
-msgstr "Du prøver å laste opp en fil som er for stor for vårt system. Vennligst velg en fil under 2MB størrelse eller lim inn en link i svarfeltet. "
+msgstr "Du prøver å laste opp en fil som er for stor for vårt system. Vennligst velg en fil under 2MB størrelse eller lim inn en link i svarfeltet."
 
 #: common/lib/xmodule/xmodule/js/src/combinedopenended/display.js:731
 msgid ""
@@ -280,7 +280,7 @@ msgid ""
 "browser. Try the newest version of Google Chrome. Alternatively, if you have"
 " uploaded the image to another website, you can paste a link to it into the "
 "answer box."
-msgstr "Filopplastninger kreves for dette spørsmålet, men støttes ikke i din nettleser. Prøv den nyeste versjonen av Google Chrome. Alternativt kan du linke til bildet fra en annen nettside. "
+msgstr "Filopplastninger kreves for dette spørsmålet, men støttes ikke i din nettleser. Prøv den nyeste versjonen av Google Chrome. Alternativt kan du linke til bildet fra en annen nettside."
 
 #. Translators: "Show Question" is some text that, when clicked, shows a
 #. question's
@@ -494,7 +494,7 @@ msgstr "Sirkel"
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js:248
 msgid "Clear formatting"
-msgstr "Klar formatering"
+msgstr "Fjern formatering"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -536,7 +536,7 @@ msgstr "Kolonne"
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js:288
 msgid "Constrain proportions"
-msgstr "Begrens størrelsesforholdet "
+msgstr "Begrens størrelsesforholdet"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -566,7 +566,7 @@ msgstr "Bruksfarge"
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js:313
 msgid "Custom..."
-msgstr ""
+msgstr "Tilpasset..."
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -1066,7 +1066,7 @@ msgstr "Ingen farge"
 #. browser when a user needs to edit HTML
 #: common/lib/xmodule/xmodule/js/src/html/edit.js:748
 msgid "Nonbreaking space"
-msgstr "Brytende avstand"
+msgstr "Ikke-brytende avstand"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -1381,7 +1381,7 @@ msgstr "Tekst å vise"
 msgid ""
 "The URL you entered seems to be an email address. Do you want to add the "
 "required mailto: prefix?"
-msgstr "URL-linken du skrev inn ser ut til å være en epost-adresse. Ønsker du å legge til mailto: prefiks?"
+msgstr "URL-linken du skrev inn ser ut til å være en epost-adresse. Ønsker du å legge til mailto: som prefiks?"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -1389,7 +1389,7 @@ msgstr "URL-linken du skrev inn ser ut til å være en epost-adresse. Ønsker du
 msgid ""
 "The URL you entered seems to be an external link. Do you want to add the "
 "required http:// prefix?"
-msgstr "URL-linken du skrev inn ser ut til å være en ekstern link. Ønsker du å legge til http:// prefiks?"
+msgstr "URL-linken du skrev inn ser ut til å være en ekstern link. Ønsker du å legge til http:// som prefiks?"
 
 #. Translators: this is a message from the raw HTML editor displayed in the
 #. browser when a user needs to edit HTML
@@ -1493,7 +1493,7 @@ msgstr "Du har ikke lagret alle forandringene. Er du sikker på at du vil navige
 msgid ""
 "Your browser doesn't support direct access to the clipboard. Please use the "
 "Ctrl+X/C/V keyboard shortcuts instead."
-msgstr "Din nettleser støtter ikke direkte aksess til utklippstavlen. Vennligst bruk Ctrl+X/C/V snarveier istedet."
+msgstr "Din nettleser støtter ikke direkte aksess til utklippstavlen. Vennligst bruk Ctrl+X/C/V-snarveier istedet."
 
 #: common/lib/xmodule/xmodule/js/src/lti/lti.js:20
 msgid ""
@@ -1563,11 +1563,11 @@ msgstr "Pause"
 
 #: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:16
 msgid "Mute"
-msgstr "Stum"
+msgstr "Mute"
 
 #: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:17
 msgid "Unmute"
-msgstr "Lyd"
+msgstr "Unmute"
 
 #: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:18
 #: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:149
@@ -1581,7 +1581,7 @@ msgstr "Avslutt fullskjerm"
 #: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:136
 #: common/lib/xmodule/xmodule/js/src/video/04_video_full_screen.js:137
 msgid "Fill browser"
-msgstr "Fil utforsker"
+msgstr "Filutforsker"
 
 #: common/lib/xmodule/xmodule/js/src/video/00_i18n.js:20
 #: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:35
@@ -1631,7 +1631,7 @@ msgstr "Maksimum"
 #: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js:216
 msgid ""
 "VideoPlayer: Element corresponding to the given selector was not found."
-msgstr "VideoSpiller: Element tilsvarende til gitt velger var ikke funnet."
+msgstr "VideoSpiller: Element svarende til gitt velger var ikke funnet."
 
 #: common/lib/xmodule/xmodule/js/src/video/02_html5_video.js:266
 msgid "This browser cannot play .mp4, .ogg, or .webm files."
@@ -1655,11 +1655,11 @@ msgstr "HD på"
 #: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:86
 #: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:287
 msgid "Video position"
-msgstr "Video plassering"
+msgstr "Videoplassering"
 
 #: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:283
 msgid "Video ended"
-msgstr "Video avslutter"
+msgstr "Video avsluttet"
 
 #: common/lib/xmodule/xmodule/js/src/video/06_video_progress_slider.js:302
 msgid "%(value)s hour"
@@ -1687,7 +1687,7 @@ msgstr "Klikk på denne knappen for å skru av eller på lyd på denne videoen, 
 
 #: common/lib/xmodule/xmodule/js/src/video/08_video_speed_control.js:34
 msgid "Speeds"
-msgstr "Raskere"
+msgstr "Hastigheter"
 
 #: common/lib/xmodule/xmodule/js/src/video/09_play_skip_control.js:75
 msgid "Skip"
@@ -1700,7 +1700,7 @@ msgstr "Spill video"
 #: common/lib/xmodule/xmodule/js/src/video/09_skip_control.js:32
 #: common/lib/xmodule/xmodule/js/src/video/09_skip_control.js:33
 msgid "Do not show again"
-msgstr "Vis ikke igjen"
+msgstr "Ikke vis igjen"
 
 #: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:41
 #: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:42
@@ -1716,7 +1716,7 @@ msgstr "Aktivisere et objekt i denne gruppen vil spole videoen til det korrespon
 
 #: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:334
 msgid "Caption will be displayed when "
-msgstr "Undertekster blir vist når"
+msgstr "Undertekster blir vist når "
 
 #: common/lib/xmodule/xmodule/js/src/video/09_video_caption.js:870
 msgid "Turn on captions"
@@ -1733,11 +1733,11 @@ msgstr "Lager savnede grupper"
 #: common/static/coffee/src/discussion/discussion_module_view.js:83
 #: common/static/coffee/src/discussion/discussion_module_view.js:106
 msgid "Hide Discussion"
-msgstr "Skjul DIskusjon"
+msgstr "Skjul diskusjon"
 
 #: common/static/coffee/src/discussion/discussion_module_view.js:95
 msgid "Show Discussion"
-msgstr "Vis Diskusjon"
+msgstr "Vis diskusjon"
 
 #: common/static/coffee/src/discussion/discussion_module_view.js:114
 #: common/static/coffee/src/discussion/discussion_module_view.js:236
@@ -1769,11 +1769,11 @@ msgstr "Laster innhold"
 msgid ""
 "We had some trouble processing your request. Please ensure you have copied "
 "any unsaved work and then reload the page."
-msgstr "Vi hadde problemer med å prosessere din forespørsel. Vennligst sjekk om du har kopiert noe ulagret arbeid og oppdater deretter siden. "
+msgstr "Vi hadde problemer med å prosessere din forespørsel. Vennligst sjekk om du har kopiert noe ulagret arbeid og oppdater deretter siden."
 
 #: common/static/coffee/src/discussion/utils.js:260
 msgid "We had some trouble processing your request. Please try again."
-msgstr "Vi hadde problemer med å prosessere forespørselen din. Vennligst prøv igjen. "
+msgstr "Vi hadde problemer med å prosessere forespørselen din. Vennligst prøv igjen."
 
 #: common/static/coffee/src/discussion/utils.js:407
 #: common/static/coffee/src/discussion/utils.js:416
@@ -1781,7 +1781,7 @@ msgstr "Vi hadde problemer med å prosessere forespørselen din. Vennligst prøv
 #: common/static/coffee/src/discussion/views/discussion_thread_list_view.js:506
 #: common/static/coffee/src/discussion/views/discussion_topic_menu_view.js:166
 msgid "…"
-msgstr "…"
+msgstr ""
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:225
 msgid "there is currently %(numVotes)s vote"
@@ -1802,21 +1802,21 @@ msgstr "Vi opplevde problemer ved å legge deg til i denne tråden. Vennligst pr
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:296
 msgid ""
 "We had some trouble unsubscribing you from this thread. Please try again."
-msgstr "Vi opplevde noen problemer med å fjerne deg fra denne tråden. Vennligst prøv igjen. "
+msgstr "Vi opplevde noen problemer med å fjerne deg fra denne tråden. Vennligst prøv igjen."
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:323
 msgid ""
 "We had some trouble marking this response as an answer.  Please try again."
-msgstr "Vi opplevde noen problemer ved å markere responsen som et svar. Vennligst prøv igjen. "
+msgstr "Vi opplevde noen problemer ved å markere responsen som et svar. Vennligst prøv igjen."
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:325
 msgid ""
 "We had some trouble removing this response as an answer.  Please try again."
-msgstr "Vi opplevde noen problemer med å fjerne denne responsen som et svar. Vennligst prøv igjen. "
+msgstr "Vi opplevde noen problemer med å fjerne denne responsen som et svar. Vennligst prøv igjen."
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:329
 msgid "We had some trouble marking this response endorsed.  Please try again."
-msgstr "Vi opplevde noe problemer med å markere denne responsen som godkjent. Vennligst prøv igjen. "
+msgstr "Vi opplevde noe problemer med å markere denne responsen som godkjent. Vennligst prøv igjen."
 
 #: common/static/coffee/src/discussion/views/discussion_content_view.js:331
 msgid "We had some trouble removing this endorsement.  Please try again."
@@ -1890,11 +1890,11 @@ msgstr "Ingen resultater funnet for %(original_query)s. Viser resultater for %(s
 
 #: common/static/coffee/src/discussion/views/discussion_thread_list_view.js:642
 msgid "No threads matched your query."
-msgstr "Ingen tråder matcher din spørring. "
+msgstr "Ingen tråder matcher din forespørsel."
 
 #: common/static/coffee/src/discussion/views/discussion_thread_list_view.js:666
 msgid "Show posts by %(username)s."
-msgstr "Vis poster etter %(username)s."
+msgstr "Vis poster av %(username)s."
 
 #: common/static/coffee/src/discussion/views/discussion_thread_view.js:232
 msgid ""
@@ -1949,7 +1949,7 @@ msgstr "Vi opplevde problemer med å laste siden du spurte etter. Vennligst prø
 
 #: common/static/coffee/src/discussion/views/new_post_view.js:155
 msgid "Your post will be discarded."
-msgstr "Din post vil bli forkastet. "
+msgstr "Din post vil bli forkastet."
 
 #: common/static/coffee/src/discussion/views/response_comment_show_view.js:43
 msgid "anonymous"
@@ -1977,7 +1977,7 @@ msgstr "Vennligst ikke bruk mellomrom i dette feltet."
 
 #: common/static/common/js/components/utils/view_utils.js:206
 msgid "Please do not use any spaces or special characters in this field."
-msgstr "Vennligst ikke bruk mellomrom eller spesial tegn i dette feltet."
+msgstr "Vennligst ikke bruk mellomrom eller spesialtegn i dette feltet."
 
 #: common/static/common/js/components/views/paging_header.js:29
 msgid "Showing %(first_index)s out of %(num_items)s total"
@@ -2138,7 +2138,7 @@ msgstr "Slutt"
 
 #: common/static/js/vendor/ova/catch/js/catch.js:63
 msgid "#Replies"
-msgstr "#Svar"
+msgstr ""
 
 #: common/static/js/vendor/ova/catch/js/catch.js:67
 msgid "Date posted"
@@ -2185,12 +2185,12 @@ msgstr "Brukere"
 #: common/static/js/vendor/ova/catch/js/catch.js:96
 #: lms/static/js/edxnotes/views/tabs/tags.js:129
 msgid "Tags"
-msgstr "Merkelapp"
+msgstr ""
 
 #: common/static/js/vendor/ova/catch/js/catch.js:87
 #: common/static/js/vendor/ova/catch/js/catch.js:97
 msgid "Annotation Text"
-msgstr "Kommentar tekst"
+msgstr "Kommentartekst"
 
 #: common/static/js/vendor/ova/catch/js/catch.js:88
 #: common/static/js/vendor/ova/catch/js/catch.js:98
@@ -2216,7 +2216,7 @@ msgstr "Svar"
 
 #: common/static/js/vendor/ova/catch/js/catch.js:261
 msgid "Tags:"
-msgstr "Merkelapper: "
+msgstr "Merkelapper:"
 
 #: lms/djangoapps/support/static/support/js/views/certificates.js:48
 msgid "An unexpected error occurred.  Please try again."
@@ -2238,11 +2238,11 @@ msgstr "navn"
 #. there are)
 #: lms/djangoapps/teams/static/teams/js/collections/topic.js:24
 msgid "team count"
-msgstr "lag telling"
+msgstr "lag-telling"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:32
 msgid "Create"
-msgstr "Lag"
+msgstr "Opprett"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:37
 msgid "Update"
@@ -2565,7 +2565,7 @@ msgstr ""
 
 #: lms/static/coffee/src/instructor_dashboard/data_download.js:89
 msgid "Error generating student profile information. Please try again."
-msgstr "Error generere studentprofilinformasjon. Vennligst prøv igjen"
+msgstr "Feil under generering av studentprofilinformasjon. Vennligst prøv igjen"
 
 #: lms/static/coffee/src/instructor_dashboard/data_download.js:106
 msgid "Loading"
@@ -2620,7 +2620,7 @@ msgstr "Epost"
 #: lms/static/coffee/src/instructor_dashboard/membership.js:104
 #: lms/static/coffee/src/instructor_dashboard/membership.js:151
 msgid "Revoke access"
-msgstr "Tilbakekaller aksess"
+msgstr "Tilbakekall tilgang"
 
 #: lms/static/coffee/src/instructor_dashboard/membership.js:105
 msgid "Enter username or email"
@@ -2633,7 +2633,7 @@ msgstr "Vennligst skriv inn brukernavn og e-post."
 #: lms/static/coffee/src/instructor_dashboard/membership.js:212
 #: lms/static/coffee/src/instructor_dashboard/membership.js:885
 msgid "Error changing user's permissions."
-msgstr "Error ved forandring av brukers tillatelser."
+msgstr "Deil under ved forandring av brukers tillatelser."
 
 #: lms/static/coffee/src/instructor_dashboard/membership.js:222
 msgid ""
@@ -2673,16 +2673,16 @@ msgstr "Suksess"
 
 #: lms/static/coffee/src/instructor_dashboard/membership.js:341
 msgid "All accounts were created successfully."
-msgstr "Alle kontoer ble suksessfullt opprettet "
+msgstr "Alle kontoer ble opprettet "
 
 #: lms/static/coffee/src/instructor_dashboard/membership.js:395
 msgid "Error adding/removing users as beta testers."
-msgstr "Error ved legge til/fjerne brukere som betatestere."
+msgstr "Feil ved legg til/fjerne brukere som betatestere."
 
 #. Translators: A list of users appears after this sentence;
 #: lms/static/coffee/src/instructor_dashboard/membership.js:455
 msgid "These users were successfully added as beta testers:"
-msgstr "Disse brukerne var suksessfullt lagt til som betatestere:"
+msgstr "Disse brukerne ble lagt til som betatestere:"
 
 #. Translators: A list of users appears after this sentence;
 #: lms/static/coffee/src/instructor_dashboard/membership.js:467
@@ -2851,7 +2851,7 @@ msgstr "Vennligst legg inn en studentepost eller brukernavn."
 msgid ""
 "Error getting student progress url for '<%= student_id %>'. Make sure that "
 "the student identifier is spelled correctly."
-msgstr "Error ved henting av link for studentframgang for '<%= student_id %>'. Sjekk om studenten ID er stavet riktig. "
+msgstr "Error ved henting av link for studentframgang for '<%= student_id %>'. Sjekk om studentens ID er stavet riktig. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:103
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:140
@@ -2867,7 +2867,7 @@ msgstr "Vennligst skriv inn problemområdet. "
 msgid ""
 "Success! Problem attempts reset for problem '<%= problem_id %>' and student "
 "'<%= student_id %>'."
-msgstr "Vellykket! Problem forsøker omgjøre for problem '<%= problem_id %>' og student '<%= student_id %>'."
+msgstr "Vellykket! Antall forsøk i problem tilbakestilt for problem '<%= problem_id %>' og student '<%= student_id %>'."
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:111
 msgid ""
@@ -2886,32 +2886,32 @@ msgid ""
 "Error deleting student '<%= student_id %>'s state on problem '<%= problem_id"
 " %>'. Make sure that the problem and student identifiers are complete and "
 "correct."
-msgstr "Error ved sletting av student '<%= student_id %>'s tilstand på problem '<%= problem_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
+msgstr "Feil ved sletting av student '<%= student_id %>'s tilstand på problem '<%= problem_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:163
 msgid "Module state successfully deleted."
-msgstr "Modultilstand ble vellykket slettet."
+msgstr "Modultilstand ble slettet."
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:187
 msgid ""
 "Started rescore problem task for problem '<%= problem_id %>' and student "
 "'<%= student_id %>'. Click the 'Show Background Task History for Student' "
 "button to see the status of the task."
-msgstr "Gjenopptok poengtelling av problemoppgaver for problem '<%= problem_id %>' og student <%= student_id %>'. Klikk \"Vis bakgrunn for oppgavehistorikk for student\"-knappen for å se status av oppgaven. "
+msgstr "Gjenopptok poengtelling av problemoppgaver for problem '<%= problem_id %>' og student '<%= student_id %>'. Klikk \"Vis bakgrunn for oppgavehistorikk for student\"-knappen for å se status av oppgaven. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:192
 msgid ""
 "Error starting a task to rescore problem '<%= problem_id %>' for student "
 "'<%= student_id %>'. Make sure that the the problem and student identifiers "
 "are complete and correct."
-msgstr "Error ved forsøk på å starte en oppgave for å telle ny poengsum for problem '<%= problem_id %>' for student '<%= student_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
+msgstr "Feil under forsøk på å starte en oppgave for å telle ny poengsum for problem '<%= problem_id %>' for student '<%= student_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:223
 msgid ""
 "Error getting task history for problem '<%= problem_id %>' and student '<%= "
 "student_id %>'. Make sure that the problem and student identifiers are "
 "complete and correct."
-msgstr "Error ved henting av oppgavehistorikk for problem '<%= problem_id %>' og student '<%= student_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
+msgstr "Feil ved henting av oppgavehistorikk for problem '<%= problem_id %>' og student '<%= student_id %>'. Vennligst sjekk om problemets og studentens ID er komplett og riktig utfylt. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:256
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
@@ -2921,7 +2921,7 @@ msgstr "Forsøk på opptakseksamen er blitt tilbakestilt for student '{student_i
 msgid ""
 "Error resetting entrance exam attempts for student '{student_id}'. Make sure"
 " student identifier is correct."
-msgstr "Error ved tilbakestilling av forsøk på opptakseksamen for student '{student_id}'. Vennligst sjekk om studentens ID er korrekt."
+msgstr "Feil ved tilbakestilling av forsøk på opptakseksamen for student '{student_id}'. Vennligst sjekk om studentens ID er korrekt."
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:287
 msgid ""
@@ -2935,7 +2935,7 @@ msgid ""
 "Error starting a task to rescore entrance exam for student '{student_id}'. "
 "Make sure that entrance exam has problems in it and student identifier is "
 "correct."
-msgstr "Error ved oppstart av en oppgave til å omgjøre poengscore for opptakseksamen for student '{student_id}'. Vennligst sjekk om inngangen til eksamen har eventuelle problemer og om studentens ID er korrekt. "
+msgstr "Error ved oppstart av en oppgave til å omgjøre poengscore for opptakseksamen for student '{student_id}'. Vennligst sjekk om opptakseksamen har problemer og om studentens ID er korrekt. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:307
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:369
@@ -3003,11 +3003,11 @@ msgstr "Vellykket start på arbeidet å omgjøre poengsum på problem '<%= probl
 msgid ""
 "Error starting a task to rescore problem '<%= problem_id %>'. Make sure that"
 " the problem identifier is complete and correct."
-msgstr "Error ved start på arbeidet å omgjøre poengsum på problem '<%= problem_id %>'. Vennligst sjekk om problemets ID er komplett og korrekt. "
+msgstr "Feil ved start på arbeidet å omgjøre poengsum på problem '<%= problem_id %>'. Vennligst sjekk om problemets ID er komplett og korrekt. "
 
 #: lms/static/coffee/src/instructor_dashboard/student_admin.js:483
 msgid "Error listing task history for this student and problem."
-msgstr "Error ved oppføring av oppgavehistorikk for denne studenten og problem. "
+msgstr "Feil ved oppføring av oppgavehistorikk for denne studenten og problem. "
 
 #. Translators: a "Task" is a background process such as grading students or
 #. sending email
@@ -3087,7 +3087,7 @@ msgstr "Nummer sendt"
 
 #: lms/static/coffee/src/instructor_dashboard/util.js:244
 msgid "Copy Email To Editor"
-msgstr "Kopier e-post til redigerer"
+msgstr "Kopier e-post til editor"
 
 #: lms/static/coffee/src/instructor_dashboard/util.js:258
 msgid "Subject:"
@@ -3099,7 +3099,7 @@ msgstr "Sendt av:"
 
 #: lms/static/coffee/src/instructor_dashboard/util.js:264
 msgid "Time Sent:"
-msgstr "Tid sendt:"
+msgstr "Tidspunkt sendt:"
 
 #: lms/static/coffee/src/instructor_dashboard/util.js:267
 msgid "Sent To:"
@@ -3307,7 +3307,7 @@ msgstr "Klarte ikke tilbakestille forsøk. "
 
 #: lms/static/js/staff_debug_actions.js:93
 msgid "Successfully deleted student state for user {user}"
-msgstr "Suksessfull sletting av studenttilstand for bruker {user}"
+msgstr "Vellykket sletting av studenttilstand for bruker {user}"
 
 #: lms/static/js/staff_debug_actions.js:94
 msgid "Failed to delete student state."
@@ -3315,7 +3315,7 @@ msgstr "Klarte ikke slette studenttilstand."
 
 #: lms/static/js/staff_debug_actions.js:104
 msgid "Successfully rescored problem for user {user}"
-msgstr "Suksessfull omgjøring av poengsum på problem for bruker {user}"
+msgstr "Vellykket omgjøring av poengsum på problem for bruker {user}"
 
 #: lms/static/js/staff_debug_actions.js:105
 msgid "Failed to rescore problem."
@@ -3355,7 +3355,7 @@ msgstr "Mindre"
 
 #: lms/static/js/dashboard/donation.js:175
 msgid "Please enter a valid donation amount."
-msgstr "Venligst skriv inn et gyldig donasjonsbeløp."
+msgstr "Vennligst skriv inn et gyldig donasjonsbeløp."
 
 #: lms/static/js/dashboard/donation.js:207
 msgid "Your donation could not be submitted."
@@ -3415,7 +3415,7 @@ msgstr ""
 
 #: lms/static/js/edxnotes/views/tab_item.js:25
 msgid "Current tab"
-msgstr "Nåværende etikett"
+msgstr "Nåværende tab"
 
 #: lms/static/js/edxnotes/views/tabs/course_structure.js:49
 msgid "Location in Course"
@@ -3455,7 +3455,7 @@ msgstr "Lagret kohort"
 
 #: lms/static/js/groups/views/cohort_editor.js:111
 msgid "Error adding students."
-msgstr "Error ved å legge til studenter."
+msgstr "Feil ved å legge til studenter."
 
 #: lms/static/js/groups/views/cohort_editor.js:114
 msgid "Enter a username or email."
@@ -3533,7 +3533,7 @@ msgstr "Tildel studenter til kohorter ved å laste opp en CSV-fil. "
 
 #: lms/static/js/groups/views/cohorts.js:266
 msgid "Choose a .csv file"
-msgstr "velg en .csv-fil"
+msgstr "Velg en .csv-fil"
 
 #: lms/static/js/groups/views/cohorts.js:267
 msgid "Only properly formatted .csv files will be accepted."
@@ -3604,7 +3604,7 @@ msgstr[1] ""
 
 #: lms/static/js/student_account/account.js:47
 msgid "The data could not be saved."
-msgstr "Data kunne ikke bli lagret."
+msgstr "Data kunne ikke lagres."
 
 #: lms/static/js/student_account/account.js:58
 msgid "Please enter a valid email address"
@@ -3696,7 +3696,7 @@ msgstr "Når du trykker \"Nullstill passord\", vil en melding bli sendt til din 
 msgid ""
 "The language used throughout this site. This site is currently available in "
 "a limited number of languages."
-msgstr "Språket som er brukt på denne siden. Foreløpig er siden bare tilgjengelig i et begrenser antall språk. "
+msgstr "Språket som er brukt på denne siden. Foreløpig er siden bare tilgjengelig i et begrenset antall språk. "
 
 #: lms/static/js/student_account/views/account_settings_factory.js:87
 msgid "Country or Region"
@@ -3754,11 +3754,11 @@ msgstr "Kobling"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:180
 msgid "Unlinking"
-msgstr "Oppheve kobling"
+msgstr "Opphever kobling"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:180
 msgid "Linking"
-msgstr "Koble"
+msgstr "Kobler"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:184
 msgid "Successfully unlinked."
@@ -3796,19 +3796,19 @@ msgstr "Fortell andre elever litt om deg selv: hvor du bor, hvilke interesser du
 
 #: lms/static/js/student_profile/views/learner_profile_fields.js:19
 msgid "Account Settings page."
-msgstr "Kontoinstillingers side."
+msgstr "Kontoinstillinger-side."
 
 #: lms/static/js/student_profile/views/learner_profile_fields.js:22
 msgid ""
 "You must specify your birth year before you can share your full profile. To "
 "specify your birth year, go to the {account_settings_page_link}"
-msgstr "Du må spesifisere ditt fødeår før du kan dele hele profilen din. For å spesifisere fødeåret ditt, gå til  {account_settings_page_link}."
+msgstr "Du må spesifisere ditt fødselsår før du kan dele hele profilen din. For å spesifisere fødselsåret ditt, gå til {account_settings_page_link}."
 
 #: lms/static/js/student_profile/views/learner_profile_fields.js:27
 msgid ""
 "You must be over 13 to share a full profile. If you are over 13, make sure "
 "that you have specified a birth year on the {account_settings_page_link}"
-msgstr "Du må være over 13 år for å dele hele profilen. Hvis du er over 13 år, vennligst sjekk om du har spesifisert fødeår på {account_settings_page_link}"
+msgstr "Du må være over 13 år for å dele hele profilen. Hvis du er over 13 år, vennligst sjekk om du har spesifisert fødselsår på {account_settings_page_link}"
 
 #: lms/static/js/student_profile/views/learner_profile_fields.js:47
 msgid "Profile Image"
@@ -3842,7 +3842,7 @@ msgstr ""
 
 #: lms/static/js/verify_student/views/make_payment_step_view.js:39
 msgid "Professional Education"
-msgstr "Profesjonell utdannelse"
+msgstr ""
 
 #: lms/static/js/verify_student/views/make_payment_step_view.js:42
 msgid "Verified Certificate upgrade"
@@ -3906,7 +3906,7 @@ msgstr "Finner ingen webkamera. "
 
 #: lms/static/js/verify_student/views/webcam_photo_view.js:197
 msgid "You don't seem to have a webcam connected."
-msgstr "Ser ikke ut som om du har noe webkamera tilkoblet. "
+msgstr "Det ser ikke ut som om du har noe webkamera tilkoblet. "
 
 #: lms/static/js/verify_student/views/webcam_photo_view.js:198
 msgid "Double-check that your webcam is connected and working to continue."
@@ -3960,11 +3960,11 @@ msgstr "Forandre bilde."
 
 #: lms/static/js/views/image_field.js:21
 msgid "Removing"
-msgstr "Fjern. "
+msgstr "Fjerner"
 
 #: lms/static/js/views/image_field.js:30
 msgid "An error has occurred. Refresh the page, and then try again."
-msgstr "En error har oppstått. Oppdater siden og prøv deretter på nytt. "
+msgstr "En feil har oppstått. Oppdater siden og prøv deretter på nytt. "
 
 #: lms/static/js/views/image_field.js:168
 msgid "The file must be at least {size} in size."
